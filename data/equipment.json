@@ -20,6 +20,27 @@
   "max_damage": 1,
   "min_damage": 0.5,
   "stamina_per_hit": 1
+  },
+  {
+    "id": 4,
+    "name": "лук",
+    "max_damage": 3.0,
+    "min_damage": 1.7,
+    "stamina_per_hit": 1
+  },
+  {
+    "id": 5,
+    "name": "меч",
+    "max_damage": 5.0,
+    "min_damage": 0.7,
+    "stamina_per_hit": 1.5
+  },
+  {
+    "id": 6,
+    "name": "книжка",
+    "max_damage": 30.0,
+    "min_damage": 0.0,
+    "stamina_per_hit": 0.5
   }
 ],
   "armors": [
@@ -40,6 +61,24 @@
     "name": "панцирь",
     "defence": 2.0,
     "stamina_per_turn": 1.6
+    },
+    {
+    "id": 4,
+    "name":"бикини",
+    "defence": 0.2,
+    "stamina_per_turn": 0
+    },
+    {
+    "id": 5,
+    "name":"шапка волка",
+    "defence": 10.0,
+    "stamina_per_turn": 3
+    },    
+    {
+    "id": 6,
+    "name":"храм божий",
+    "defence": 50.0,
+    "stamina_per_turn": 15
     }
   ]
 }
